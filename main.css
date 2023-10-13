@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.coloredButton {
+  margin: 20px 50px;
+  padding: 20px 200px;
+  background-color: rgb(81, 144, 27);
+}
